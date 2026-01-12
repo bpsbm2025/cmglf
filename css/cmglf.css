@@ -1,0 +1,552 @@
+   /* Custom styles for Google Material Symbols (kept for icon styling) */
+   .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+.cedarville-cursive-regular {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .miniver-regular {
+    font-family: "Miniver", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+/* Breaking News Scroll Bar Styles */
+.breaking-news-container-yellow-header {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    height: 25px;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-header {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 100%; /* Start content off-screen to the right */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+
+.breaking-news-container-yellow-1 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-1 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+    font-family: Cedarville Cursive;
+}
+
+.breaking-news-container-green-1 {
+    background-color: lightgreen; /* Red background for breaking news */
+    color: black;
+    height: 2px;
+    padding: 0px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-green-1 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 100%; /* Start content off-screen to the right */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.2em; /* Slightly smaller text */
+}
+
+/* Breaking News Scroll Bar Styles */
+.breaking-news-container-yellow-2 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-2 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+    font-family: Cedarville Cursive;
+}
+
+.breaking-news-container-yellow-3 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-3 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+    font-family: Cedarville Cursive;
+}
+
+.breaking-news-container-yellow-4 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-4 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 100%; /* Start content off-screen to the right */
+    animation: scroll-news 30s linear infinite; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+
+.breaking-news-container-yellow-5 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-5 {
+   display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+    font-family: Cedarville Cursive;
+}
+.breaking-news-container-yellow-6 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-6 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+    font-family: Cedarville Cursive;
+}
+.breaking-news-container-yellow-7 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-7 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+.breaking-news-container-yellow-8 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-8 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+.breaking-news-container-yellow-9 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-9 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+.breaking-news-container-yellow-10 {
+    background-color: lightgoldenrodyellow; /* Red background for breaking news */
+    color: black;
+    padding: 4px 0; /* Vertical padding */
+    overflow: hidden; /* Hide content outside the container */
+    white-space: nowrap; /* Keep content on a single line */
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.breaking-news-content-yellow-10 {
+    display: inline-block; /* Allow content to be wider than container */
+    padding-left: 10%; /* Start content off-screen to the right */
+    animation: none; /* Animation for scrolling - CHANGED FROM 30s TO 60s */
+    font-weight: 600; /* Semi-bold text */
+    font-size: 0.9em; /* Slightly smaller text */
+}
+/* Keyframes for the scrolling animation */
+@keyframes scroll-news {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-100%); /* Scroll left by 100% of its own width */
+    }
+}
+
+
+ 
+ /* Basic Reset & Body Styles */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh; /*Ensures the body takes at least the full viewport height*/
+            text-align: center;
+        }
+
+        .wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0px;
+            padding: 20px;
+            justify-content: space-between;
+            background-color: lightgoldenrodyellow;
+        }
+
+        .article {
+            background-color: lightgoldenrodyellow;
+        }
+        /* Header Styles */
+        .header {
+            background-color: white;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+        }
+
+        /* Logo and Title */
+        .logo-container {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .logo {
+            height: 40px; /* Adjust as needed */
+            margin-right: 10px;
+        }
+
+        .site-title {
+            font-family: "Century Gothic", sans-serif;
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #333;
+        } /*not using */
+
+        /* Toolbar Icons */
+        .toolbar {
+            padding: 7px;
+            background-color:burlywood;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            gap: 20px; /* Space between icons */
+        }
+
+        .toolbar a {
+            color: black;
+            font-size: 1.5em;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .toolbar a:hover {
+            color: lightcoral; /* Hover color */
+        }
+
+        /* Main Content Area */
+        .main-content {
+            padding: 20px;
+            max-width: 450px; 
+            margin: 20px auto;
+            background-color:transparent;
+            border-radius: 8px;
+            font-family: sans-serif;
+            font-size: 1.0em;
+            flex: 1 1 100%;
+        }
+      /* Aside Content Area */
+      .aside-content {
+        padding-left: 15px;
+        margin-left: 15px;
+        float: right;
+        max-width: 500px;
+        margin: 20px;
+        background-color:lightgoldenrodyellow;
+        border-radius: 8px;
+        font-family: sans-serif;
+        font-size: 1.0em;
+        padding: 10px;
+        flex: 1 1 100%;
+    }
+
+    .header-image {
+        padding: 5px;
+        max-width: 500px; 
+        margin: 20px auto;
+        background-color:transparent;
+        border-radius: 8px;
+        font-family: sans-serif;
+        font-size: 1.0em;
+        flex: 1 1 100%;
+    }
+
+    .header-image:hover {
+        transform: scale(1.02); /* Slight zoom effect on hover */
+        box-shadow: 0 6px 20px rgba (0,0,0,0.3);
+    }
+
+        .responsive-image {
+            max-width: 100%; /* Ensures the image doesn't overflow its container*/
+            height: auto;   /* Maintains aspect ratio */
+            display: block; /*Removes extra space below the image */
+            margin: 0 auto 20px auto;
+            border-radius: 2px;
+            cursor: pointer; /* Indicates it's clickable */
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .responsive-image:hover {
+            transform: scale(1.02); /* Slight zoom effect on hover */
+            box-shadow: 0 6px 20px rgba (0,0,0,0.3);
+        }
+
+
+        form {
+            background-color:lightgoldenrodyellow;
+            padding: 25px;
+            border-radius: 8px;
+            max-width: 500px;
+            margin: 30px auto;
+            text-align: left;
+        }
+        
+        /* General label styling (for Name, Age, Message labels) */
+        label {
+            text-align: justify;
+            display: block; /* Ensures these labels start on a new line */
+            margin-bottom: 5px;
+            margin-top: 15px; /* Add some space above these main labels */
+            font-weight: bold;
+        }
+        
+        p {
+            text-align: justify;
+            display: block;
+        }
+        
+        /* Styling for labels that are directly next to a checkbox */
+        /* This is the crucial part for checkbox alignment */
+        input[type="checkbox"] {
+            margin-right: 8px; /* Space between checkbox and its label */
+            vertical-align: middle; /* Helps align the checkbox with text baseline */
+        }
+        
+        input[type="checkbox"] + label {
+            display: inline-block; /* Makes the label sit next to the checkbox */
+            font-weight: normal; /* Checkbox labels typically aren't bold */
+            margin-top: 0; /* Remove top margin that block labels might have */
+            margin-bottom: 5px; /* Add some space below each checkbox line if needed */
+            vertical-align: middle; /* Helps align the label with the checkbox */
+        }
+        
+        /* Styling for labels that are directly next to a checkbox */
+        /* This is the crucial part for checkbox alignment */
+        input[type="radio"] {
+            margin-right: 8px; /* Space between checkbox and its label */
+            vertical-align: middle; /* Helps align the checkbox with text baseline */
+        }
+        
+        input[type="radio"] + label {
+            display: inline-block; /* Makes the label sit next to the checkbox */
+            font-weight: normal; /* Checkbox labels typically aren't bold */
+            margin-top: 5; /* Remove top margin that block labels might have */
+            margin-bottom: 10px; /* Add some space below each checkbox line if needed */
+            vertical-align: middle; /* Helps align the label with the checkbox */
+        }
+        
+        /* The label for "Documents you are interested in:" should remain block */
+        /* We use a specific selector to make sure it's not affected by the checkbox label rule */
+        div > label:first-child:not([for]) { /* Targets the first label in a div that doesn't have a 'for' attribute (like your "Documents" label) */
+            display: block;
+            font-weight: bold;
+            margin-bottom: 10px; /* Space below this header label */
+            margin-top: 15px; /* Space above this header label */
+        }
+        
+        
+        input[type="text"],
+        input[type="tel"],
+        input[type="number"],
+        textarea {
+            width: calc(100% - 22px);
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            border-color:lightgreen;
+            box-sizing: border-box;
+            font-size: 16px;
+            font-family: sans-serif;
+        }
+        
+        
+        button[type="submit"] {
+            background-color:lightcoral;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+        
+        button[type="submit"]:hover {
+            background-color: green;
+        }
+
+        button[type="start"] {
+            background-color:lightcoral;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+        
+        button[type="start"]:hover {
+            background-color: green;
+        }
+        footer {
+            background-color:white;
+            color:gray;
+            padding: 0px;
+            font-size: 0.7em;
+            margin-top: auto; /* Pushes the footer to the bottom */
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column; /* Stack items vertically on smaller screens */
+                padding: 10px 15px;
+            }
+
+            .logo-container {
+                margin-bottom: 10px; /* Add space below logo on small screens */
+            }
+
+            .site-title {
+                font-size: 1.5em;
+                text-align: center;
+                width: 100%; /* Take full width */
+            }
+
+            .toolbar {
+                width: 100%;
+                justify-content: center; /* Center icons on small screens */
+                margin-top: 10px;
+                gap: 15px; /* Slightly reduce gap for smaller screens */
+            }
+
+            .toolbar a {
+                font-size: 1.3em;
+            }
+            .main{
+                flex: 2 1 65%;
+            }
+            .aside {
+                flex: 1 1 30%;
+            }
+        }
+
+
+        @media (max-width: 480px) {
+            .logo {
+                height: 35px;
+            }
+
+            .site-title {
+                font-size: 1.3em;
+            }
+
+            .toolbar {
+                gap: 10px;
+            }
+
+            .toolbar a {
+                font-size: 1.2em;
+            }
+        }
+    
